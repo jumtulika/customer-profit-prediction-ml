@@ -89,6 +89,20 @@ This project applies machine learning techniques to predict customer profitabili
 
 ---
 
+
+
+![Test RMSE](images/Test_RMSE_by_Model.png)
+*Model comparison based on RMSE.*
+
+![Test R2](images/Test_R2_by_Model.png)
+*Model comparison based on R².*
+
+![Top Features](images/Random_Forest_top_features.png)
+*Key drivers of customer profitability.*
+
+![Predicted vs Actual](images/XGBoost_Predicted_Vs_Actual.png)
+*Model prediction vs actual values.*
+
 ## 🚀 Future Improvements
 
 * Include additional features (behavioral data)
