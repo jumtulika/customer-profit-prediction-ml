@@ -94,3 +94,23 @@ This project applies machine learning techniques to predict customer profitabili
 * Include additional features (behavioral data)
 * Improve model performance
 * Apply explainability techniques (SHAP)
+
+
+
+## 📊 Model Performance
+
+![Test RMSE](images/Test RMSE by Model.png)
+
+![Test R2](images/Test R2 by Model.png)
+
+---
+
+## 🔍 Feature Importance
+
+![XGBoost Features](images/XGBoosttop Features.png)
+
+---
+
+## 📈 Prediction Performance
+
+![Predicted vs Actual](images/XGBoost Predicted Vs Actual.png)
