@@ -125,6 +125,3 @@ This project applies machine learning techniques to predict customer profitabili
 
 ---
 
-## 📈 Prediction Performance
-
-![Predicted vs Actual](images/XGBoost Predicted Vs Actual.png)
